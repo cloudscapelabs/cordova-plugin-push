@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 @import UserNotifications;
 
 extern NSString *const pushPluginApplicationDidBecomeActiveNotification;
