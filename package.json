@@ -1,7 +1,10 @@
 {
-  "name": "@havesource/cordova-plugin-push",
-  "version": "4.0.0",
+  "name": "@cloudscapelabs/cordova-plugin-push",
+  "version": "4.0.0-csl1",
   "description": "Register and receive push notifications.",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "build": "babel src/js --out-dir www",
     "build:watch": "nodemon -w ./src/js -e js -x npm run build",
