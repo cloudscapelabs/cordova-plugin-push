@@ -1,6 +1,6 @@
 {
   "name": "@cloudscapelabs/cordova-plugin-push",
-  "version": "4.0.0-csl1",
+  "version": "4.0.0-csl2",
   "description": "Register and receive push notifications.",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
